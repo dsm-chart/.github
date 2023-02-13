@@ -7,6 +7,8 @@
 > ***학생들에게 필요한 기능(ex. 시간표, 급식표)를 포함하여, 개발자에게도 유용한 기능(github 커밋 그래프)을 제공하기 위해 노력해요!***
 
 
+<img width="1240" alt="Project Chart Thumbnail" src="https://user-images.githubusercontent.com/59428479/218382796-1b9aaf6e-bda2-4c11-bfdc-da701899aade.png">
+
 # DaF팀이란?
 
 ---
@@ -19,3 +21,6 @@
 
 
 Notion: https://dsm-chart.notion.site/Chart-bac26b6525e54ce9a4086fcb8d0a1200
+
+
+
